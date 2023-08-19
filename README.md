@@ -6,3 +6,6 @@
 - CSS
 - Normalize.css
 - SVG Sprites 
+
+## 📌 Deployment
+<em>GitHub Pages: </em> http://shahbozjon.github.io/youtube-concept
